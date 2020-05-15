@@ -98,8 +98,8 @@ Software: Python 3.7.6 with Pandas & Numpy, Anaconda, Jupyter Notebook
 ### 8. Scores by School Size - POST
 ![](Images/08_scores_by_school_size_POST.JPG)
 
-### 9. Scores by School Tyoe - PRE
+### 9. Scores by School Type - PRE
 ![](Images/09_scores_by_school_type_PRE.JPG)
 
-### 9. Scores by School Tyoe - POST
+### 9. Scores by School Type - POST
 ![](Images/09_scores_by_school_type_POST.JPG)
