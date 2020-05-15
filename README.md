@@ -37,37 +37,37 @@ Spending
 ![](Images/03_top5_performing_POST.JPG)
 
 ### 4. Bottom 5 Performing Schools - PRE
-![](Images/bottom5_performing_PRE.JPG)
+![](Images/04_bottom5_performing_PRE.JPG)
 
 ### 4. Bottom 5 Performing Schools - POST
-![](Images/bottom5_performing_POST.JPG)
+![](Images/04_bottom5_performing_POST.JPG)
 
 ### 5. Math Scores by Grade - PRE
-![](Images/math_scores_by_grade_PRE.JPG)
+![](Images/05_math_scores_by_grade_PRE.JPG)
 
 ### 5. Math Scores by Grade - POST
-![](Images/math_scores_by_grade_POST.JPG)
+![](Images/05_math_scores_by_grade_POST.JPG)
 
 ### 6. Reading Scores by Grade - PRE
-![](Images/reading_scores_by_grade_PRE.JPG)
+![](Images/06_reading_scores_by_grade_PRE.JPG)
 
 ### 6. Reading Scores by Grade - POST
-![](Images/reading_scores_by_grade_POST.JPG)
+![](Images/06_reading_scores_by_grade_POST.JPG)
 
 ### 7. Scores by School Spending - PRE
-![](Images/scores_by_school_spending_PRE.JPG)
+![](Images/07_scores_by_school_spending_PRE.JPG)
 
 ### 7. Scores by School Spending - POST
-![](Images/scores_by_school_spending_POST.JPG)
+![](Images/07_scores_by_school_spending_POST.JPG)
 
 ### 8. Scores by School Size - PRE
-![](Images/scores_by_school_size_PRE.JPG)
+![](Images/08_scores_by_school_size_PRE.JPG)
 
 ### 8. Scores by School Size - POST
-![](Images/scores_by_school_size_POST.JPG)
+![](Images/08_scores_by_school_size_POST.JPG)
 
 ### 9. Scores by School Tyoe - PRE
-![](Images/scores_by_school_type_PRE.JPG)
+![](Images/09_scores_by_school_type_PRE.JPG)
 
 ### 9. Scores by School Tyoe - POST
-![](Images/scores_by_school_type_POST.JPG)
+![](Images/09_scores_by_school_type_POST.JPG)
