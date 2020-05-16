@@ -22,13 +22,19 @@ Software: Python 3.7.6 with Pandas & Numpy, Anaconda, Jupyter Notebook
  
 ## How is the district summary affected?
 
+The average math score, % passing math, % passing reading and % overall passing all decreased within a percentage point as a result of replacing Thomas High School's 9th grade results.
+
 *please refer to appendix 1
 
 ## How is the school summary affected?
 
+While the average math score decreased within a percentage point, the average reading score increased within a percentage point, however % passing math, % passing reading, and % overall passing decreased drastically with each losing approximately 25-30 percentage points. 
+
 *please refer to appendix 2
 
 ## How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+
+Thomas High School was initially within the top 5 performing schools (ranked #2), but since removing the 9th grade student grades, is no longer within the top 5 performing schools. There was no evidence of change amongst the bottom 5 performing schools.
 
 *please refer to appendix 3 & 4
 
@@ -36,17 +42,24 @@ Software: Python 3.7.6 with Pandas & Numpy, Anaconda, Jupyter Notebook
 
 - Math and Reading Scores by Grade
 
+
 *please refer to appendix 5 & 6
 
 - Scores by School Spending
+
+Spending ranges per student between $630-644 were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 7 percentage points.
 
 *please refer to appendix 7
 
 - Scores by School Size
 
+Medium school size (1000-2000 students) were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 6 percentage points.
+
 *please refer to appendix 8
 
 - Scores by School Type
+
+Charter school types were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 4 percentage points.
 
 *please refer to appendix 9
 # APPENDIX
@@ -63,7 +76,7 @@ Software: Python 3.7.6 with Pandas & Numpy, Anaconda, Jupyter Notebook
 ![](Images/02_school_summary_POST.JPG)
 
 ### 3. Top 5 Performing Schools - PRE
-![](Images/03_top5_performing_POST.JPG)
+![](Images/03_top5_performing_PRE.JPG)
 
 ### 3. Top 5 Performing Schools - POST
 ![](Images/03_top5_performing_POST.JPG)
