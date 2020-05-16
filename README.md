@@ -18,6 +18,7 @@ Data Source: schools_complete.csv, clean_students_complete.csv, students_complet
 Software: Python 3.7.6 with Pandas & Numpy, Anaconda, Jupyter Notebook
 
 ## Challenge Summary
+
 ### How is the district summary affected?
 
 The average math score, % passing math, % passing reading and % overall passing all decreased within a percentage point as a result of replacing Thomas High School's 9th grade results.
@@ -38,29 +39,31 @@ Thomas High School was initially within the top 5 performing schools (ranked #2)
 
 ### How does removing the ninth grade scores affect the following:
 
-Math and Reading Scores by Grade
+A. Math and Reading Scores by Grade
 
 Thomas High School now shows "nan" under 9th grade scores for both Math and Reading
 
 *please refer to appendix 5 & 6
 
-### Scores by School Spending
+B. Scores by School Spending
 
 Spending ranges per student between $630-644 were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 7 percentage points.
 
 *please refer to appendix 7
 
-### Scores by School Size
+C. Scores by School Size
 
 Medium school size (1000-2000 students) were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 6 percentage points.
 
 *please refer to appendix 8
 
-### Scores by School Type
+D. Scores by School Type
 
 Charter school types were negatively affected, showing decreases within % passing math, % passing reading, and % overall passing by approximately 4 percentage points.
 
 *please refer to appendix 9
+
+## Appendix
 
 ### 1. District School Summary - PRE 
 ![](Images/01_district_school_summary_PRE.JPG)
