@@ -7,9 +7,10 @@ After assessing the situation with the school superintendent and Maria, it was d
 - Keep all other data associated with the ninth-grade students and Thomas High School intact.
 
 ## Challenge Overview
-Filter DataFrames using logical operators.
-Replace the incorrect values with NaN.
-Explain how your PyCitySchools analysis changes after you handle the incorrect data.
+
+- Filter DataFrames using logical operators.
+- Replace the incorrect values with NaN.
+- Explain how your PyCitySchools analysis changes after you handle the incorrect data.
 
 ## Resources
 Data Source: schools_complete.csv, clean_students_complete.csv, students_complete.csv, Cleaning_ThomasHS_9thGrade_results.ipynb
@@ -74,7 +75,7 @@ Charter school types were negatively affected, showing decreases within % passin
 ![](Images/02_school_summary_POST.JPG)
 
 ### 3. Top 5 Performing Schools - PRE
-![](Images/03_top5_performing_POST.JPG)
+![](Images/03_top5_performing_PRE.JPG)
 
 ### 3. Top 5 Performing Schools - POST
 ![](Images/03_top5_performing_POST.JPG)
